@@ -1,0 +1,8 @@
+1. git init => Used to create local git repository
+   Description: This command will divide the folder into 3 logical areas
+   a.) Work Station 
+   b.) Staging area
+   c.) Local Repository
+
+
+2. git status => Used to show the status of current files
